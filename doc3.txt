@@ -1,6 +1,10 @@
 doc3
 modificacio 1 sense guardar 
 
+<<<<<<< HEAD
 
 
 i aço del main
+=======
+modifiuqe este
+>>>>>>> dissenyador

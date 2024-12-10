@@ -1,2 +1,6 @@
 doc 2
+<<<<<<< HEAD
 i aço es del main
+=======
+i este!
+>>>>>>> dissenyador
